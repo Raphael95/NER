@@ -77,5 +77,4 @@ if __name__ == '__main__':
                 ner[entity].append(sentence[s: e])
         print(ner)
     end_time = time.time()
-    print("耗时： %f s" % (end_time - start_time))z
-    print("耗时 %f s"%)
+    print("耗时： %f s" % (end_time - start_time))
