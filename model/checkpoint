@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm-200"
+all_model_checkpoint_paths: "lstm-200"
